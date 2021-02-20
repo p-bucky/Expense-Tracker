@@ -19,5 +19,5 @@ function App() {
     </GlobalProvider>
   );
 }
-
+// 31:00
 export default App;
